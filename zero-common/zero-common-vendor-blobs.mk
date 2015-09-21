@@ -137,6 +137,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zero-common/proprietary/vendor/firmware/seiren_fw_sram.bin:system/vendor/firmware/seiren_fw_sram.bin \
 	vendor/samsung/zero-common/proprietary/vendor/firmware/bcm4358A0_V0009.0033.hcd:system/vendor/firmware/bcm4358A0_V0009.0033.hcd \
 	vendor/samsung/zero-common/proprietary/vendor/firmware/bcm4358A1_V0041.0075.hcd:system/vendor/firmware/bcm4358A1_V0041.0075.hcd \
+	vendor/samsung/zero-common/proprietary/lib/libcsc.so:system/lib/libcsc.so \
+	vendor/samsung/zero-common/proprietary/lib64/libcsc.so:system/lib64/libcsc.so \
 	vendor/samsung/zero-common/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
 	vendor/samsung/zero-common/proprietary/lib64/libexynoscamera3.so:system/lib64/libexynoscamera3.so \
 	vendor/samsung/zero-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
