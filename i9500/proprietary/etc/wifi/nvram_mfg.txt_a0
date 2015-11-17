@@ -9,7 +9,7 @@ boardflags3=0x4
 #boardnum=57410 
 #(Serial Number)
 macaddr=00:90:4c:c5:12:38()
-ccode=ALL
+ccode=US
 regrev=0
 antswitch=0
 pdgain5g=1

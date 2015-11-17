@@ -10,7 +10,7 @@ boardflags3=0x4
 #(Serial Number)
 macaddr=00:90:4c:c5:12:38()
 ccode=US
-regrev=46
+regrev=0
 antswitch=0
 pdgain5g=1
 pdgain2g=1
